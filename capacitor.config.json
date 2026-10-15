@@ -1,0 +1,6 @@
+{
+  "appId": "pk.offer.zenlits",
+  "appName": "ZenLITS",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
