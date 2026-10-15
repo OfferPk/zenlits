@@ -1,0 +1,29 @@
+{
+  "name": "zenlits",
+  "version": "1.0.0",
+  "description": "ZenLITS: Serene Japanese Tetromino Architecture Logic (LITS / ＬＩＴＳ / Nuruomino)",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node --test test/engine.test.js",
+    "build": "node scripts/build.js"
+  },
+  "keywords": [
+    "lits",
+    "tetromino",
+    "nikoli",
+    "logic-puzzle",
+    "zen",
+    "japanese-architecture",
+    "kigumi",
+    "pwa",
+    "capacitor",
+    "offline-game"
+  ],
+  "author": "OfferPk",
+  "license": "MIT",
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}
